@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: rgba(255, 0, 0, 0.5);
+    text-decoration: none;
+    
+}
+
+div{
+    
+}
+
+
+
+.menu{
+    display: flex;
+    justify-content: center 
+}
+
+.span{
+    padding: 20px 20px;
+}
+
+
+.menu-secundario{
+    padding: 20px;
+}
+
+
+.menu-terciario{
+    margin: 30px 20px 30px 500px;
+}
+
+
+.terciario{
+    padding: 25px;
+}
+
+.imagem{
+    margin: 10px 0px 0px 200px;
+    
+}
+
+
+   
+    
